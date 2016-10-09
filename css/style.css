@@ -1,0 +1,87 @@
+h1{
+	font: bold 44px "open sans", sans-serif;
+	color: white;
+	margin: auto;
+    width: 40%;
+    padding: 10px;
+    text-align: center;
+}
+
+h2{
+	background-color: pink;
+	margin: auto;
+    width: 40%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    text-align: center;
+}
+
+#submit {
+	background-color: green;
+	    border-radius: 5px;
+	    color: white;
+	    display: inline-block;
+	    font: bold 24px "open sans", sans-serif;
+        align: center;
+        margin: auto;
+	    width: 60%;
+	    padding: 10px;
+	    margin-left: 20%;
+}
+
+#id{
+	background-color: green;
+	    border-radius: 5px;
+	    color: white;
+	    padding: 15px 62px;
+	   	text-decoration: none;
+	    display: inline-block;
+	    font: bold 24px "open sans", sans-serif;
+	    margin: 4px 2px;
+        cursor: pointer;
+        align: center;
+        border: 0;
+         text-align: center;
+         margin: 10%;
+
+}
+.inner-wrapper {
+  border: 1px solid lightgray;
+  background-color: white;
+  margin-top: 10%;
+  background-position: center;
+  margin: auto;
+  width: 40%;
+  text-align: center;
+  margin: 10%;
+  align: center;
+    margin-left: 30%;
+}
+.input{
+   border: 1px solid lightgray;
+  background-color: white;
+  margin-top: 10%;
+  background-position: center;
+  margin: auto;
+  width: 100%;
+ }
+
+body {
+	background-repeat: no-repeat;
+	size: 100%;
+	margin: auto;
+    width: 40%;
+    padding: 10px;
+}
+#container {
+	margin: auto;
+    width: 60%;
+
+    padding: 10px;
+}
+.celsius-box{
+	width: 5%;
+	align: center;
+	margin: 5%;
+
+}
